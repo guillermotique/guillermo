@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+167
+'Digite su edad para saber si tiene un descuento de 50 porciento en medicamentos solo se le hace descuento a personas entre 60-90 y digite por ultimo el total a pagar'
+5
+1
+10
+Edad,Total
+7
+0
+1
+8
+Edad<=90
+4
+1
+27
+'su total a pagar es',total
+13
+7
+0
+1
+8
+Edad>=60
+4
+1
+27
+'su total a pagar es',total
+13
+6
+1
+5
+Total
+17
+(Total*0.5)-Total
+4
+1
+50
+'Su total a pagar con descuento incluido es',Total
+13
+13
+1
